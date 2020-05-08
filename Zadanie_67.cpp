@@ -35,5 +35,8 @@ int main()
 
     std::cout << "Ilość kolumn z 3 liczbami w zakresie 85-100: " << File.countRowsWithNumbsInRange(3, 85, 100) 
         << std::endl;
+
+
+    return 0;
 }
 
